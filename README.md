@@ -32,7 +32,7 @@
     
 
 
-**To start the application, run the following command:
+##To start the application, run the following command:
 
 ```bash
 genai-text-summarizer
