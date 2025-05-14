@@ -14,10 +14,6 @@
 
 ## Installation
 
-### Prerequisites
-
-- Python 3.11 or higher
-- Virtual environment (optional but recommended)
 
 ### Steps
 
