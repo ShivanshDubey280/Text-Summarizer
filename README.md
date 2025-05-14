@@ -23,15 +23,13 @@
 
   **Install the Dependencies**
 
-    ```bash
     pip install -r requirements.txt
-    ```
+    
 
    **Install the Package**
-
-    ```bash
+   
     pip install -e .
-    ```
+    
 
 
 **To start the application, run the following command:
