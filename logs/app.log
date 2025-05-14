@@ -1,0 +1,122 @@
+2025-05-14 13:58:00,704 - INFO - BART model loaded successfully.
+2025-05-14 13:58:01,590 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-05-14 13:58:01,807 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-05-14 13:58:02,757 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-05-14 13:59:51,244 - INFO - Received request to summarize 0 input.
+2025-05-14 13:59:51,348 - INFO - Processing text input.
+2025-05-14 13:59:51,348 - INFO - Handling text input
+2025-05-14 13:59:51,348 - INFO - Starting summarization process.
+2025-05-14 14:00:33,980 - INFO - Summarization complete.
+2025-05-14 14:00:33,989 - INFO - Text input processed successfully.
+2025-05-14 14:05:25,381 - INFO - Received request to summarize 0 input.
+2025-05-14 14:05:25,382 - INFO - File: C:\Users\shiva\AppData\Local\Temp\gradio\fc795227702fa489a6985a9d7e619a0398358ba69b8534d27b9603bfa20c8454\BlackHoles.pdf, Text: , Audio: None
+2025-05-14 14:05:25,382 - WARNING - Invalid input type provided.
+2025-05-14 14:05:34,937 - INFO - Received request to summarize 2 input.
+2025-05-14 14:05:34,937 - INFO - File: C:\Users\shiva\AppData\Local\Temp\gradio\fc795227702fa489a6985a9d7e619a0398358ba69b8534d27b9603bfa20c8454\BlackHoles.pdf, Text: , Audio: None
+2025-05-14 14:05:34,938 - INFO - Processing PDF file: C:\Users\shiva\AppData\Local\Temp\gradio\fc795227702fa489a6985a9d7e619a0398358ba69b8534d27b9603bfa20c8454\BlackHoles.pdf
+2025-05-14 14:05:34,941 - INFO - Reading PDF file: C:\Users\shiva\AppData\Local\Temp\gradio\fc795227702fa489a6985a9d7e619a0398358ba69b8534d27b9603bfa20c8454\BlackHoles.pdf
+2025-05-14 14:05:34,989 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:34,995 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:34,996 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:34,997 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:34,999 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,000 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,001 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,002 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,003 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,005 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,006 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,007 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,008 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,008 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,009 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,009 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,010 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,011 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,266 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,266 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,266 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,266 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,266 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,267 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,267 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,267 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,267 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,267 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,267 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,269 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,269 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,272 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,272 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,272 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,272 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,273 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:05:35,273 - INFO - Starting summarization process.
+2025-05-14 14:05:55,529 - INFO - Summarization complete.
+2025-05-14 14:05:55,530 - INFO - PDF processed successfully.
+2025-05-14 14:06:49,389 - INFO - Received request to summarize 2 input.
+2025-05-14 14:06:49,389 - INFO - File: C:\Users\shiva\AppData\Local\Temp\gradio\6708e1d7fbd4b560ecb57b1f6ab1989c8958da81e106433289bdfcc1c5a6e9f0\IJNRD2404120.pdf, Text: , Audio: None
+2025-05-14 14:06:49,390 - INFO - Processing PDF file: C:\Users\shiva\AppData\Local\Temp\gradio\6708e1d7fbd4b560ecb57b1f6ab1989c8958da81e106433289bdfcc1c5a6e9f0\IJNRD2404120.pdf
+2025-05-14 14:06:49,390 - INFO - Reading PDF file: C:\Users\shiva\AppData\Local\Temp\gradio\6708e1d7fbd4b560ecb57b1f6ab1989c8958da81e106433289bdfcc1c5a6e9f0\IJNRD2404120.pdf
+2025-05-14 14:06:49,428 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:49,430 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:49,431 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:49,432 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:49,433 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:49,434 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:49,436 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:49,437 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:49,440 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:52,632 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:52,632 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:52,632 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:52,633 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:52,633 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:52,633 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:52,633 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:52,633 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:52,634 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:06:52,634 - INFO - Starting summarization process.
+2025-05-14 14:07:26,052 - INFO - Summarization complete.
+2025-05-14 14:07:26,054 - INFO - PDF processed successfully.
+2025-05-14 14:28:51,589 - INFO - BART model loaded successfully.
+2025-05-14 14:28:52,541 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-05-14 14:28:52,564 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-05-14 14:28:53,612 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-05-14 14:31:36,876 - INFO - BART model loaded successfully.
+2025-05-14 14:31:37,674 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-05-14 14:31:37,719 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-05-14 14:31:38,787 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-05-14 14:51:50,549 - INFO - BART model loaded successfully.
+2025-05-14 14:51:51,472 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-05-14 14:51:51,505 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-05-14 14:51:52,837 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-05-14 14:52:09,172 - INFO - Received request to summarize 2 input.
+2025-05-14 14:52:09,172 - INFO - File: C:\Users\shiva\AppData\Local\Temp\gradio\6708e1d7fbd4b560ecb57b1f6ab1989c8958da81e106433289bdfcc1c5a6e9f0\IJNRD2404120.pdf, Text: , Audio: None
+2025-05-14 14:52:09,172 - INFO - Processing PDF file: C:\Users\shiva\AppData\Local\Temp\gradio\6708e1d7fbd4b560ecb57b1f6ab1989c8958da81e106433289bdfcc1c5a6e9f0\IJNRD2404120.pdf
+2025-05-14 14:52:09,172 - INFO - Reading PDF file: C:\Users\shiva\AppData\Local\Temp\gradio\6708e1d7fbd4b560ecb57b1f6ab1989c8958da81e106433289bdfcc1c5a6e9f0\IJNRD2404120.pdf
+2025-05-14 14:52:09,195 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:09,200 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:09,200 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:09,202 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:09,203 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:09,203 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:09,203 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:09,203 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:09,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:10,932 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:10,933 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:10,933 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:10,933 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:10,933 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:10,933 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:10,933 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:10,933 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:10,934 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-14 14:52:10,934 - INFO - Starting summarization process.
+2025-05-14 14:52:44,991 - INFO - Summarization complete.
+2025-05-14 14:52:44,998 - INFO - PDF processed successfully.
+2025-05-14 14:57:35,364 - INFO - BART model loaded successfully.
+2025-05-14 14:57:36,232 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-05-14 14:57:36,246 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-05-14 14:57:37,263 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
