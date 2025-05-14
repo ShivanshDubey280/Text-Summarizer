@@ -24,7 +24,7 @@
 
    **Install the Package**
    
-    pip install -e .
+    pip install -e
     
 
 
